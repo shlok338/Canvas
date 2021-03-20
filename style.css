@@ -1,0 +1,11 @@
+.paint-canvas{
+    display: block;
+    border: 2px solid black;
+    margin: 20px auto;
+    background-color: white;
+}
+body{
+    text-align: center;
+    background-color: rgb(71, 71, 71);
+    color: white;
+}
